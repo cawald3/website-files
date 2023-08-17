@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Conner Awald # Website name
 baseURL: 'https://cawald3.github.io' # Website URL
 
 ############################
@@ -25,7 +25,8 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: academic-modified
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
+    #- path: academic-modified
 
 ############################
 ## ADVANCED

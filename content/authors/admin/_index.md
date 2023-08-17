@@ -1,56 +1,48 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Electrical engineer and PhD student at Georgia Tech. Space nerd.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: Georgia Institute of Technology
+    year: Ongoing
+  - course: B.S. in Electrical Engineering
+    institution: Georgia Institute of Technology
+    year: 2021
 email: ""
-first_name: Alice
+first_name: Conner
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Telecommunications
+- Satellite Avionics
+- Sensor Development
+last_name: Awald
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Georgia Tech Research Institute
+  url: https://www.gtri.gatech.edu/
+role: Microelectronics Engineer
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=zFzoYdYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/connerawald/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Conner Awald
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a full-time research engineer at Georgia Tech and current Ph.D. student in the Space Systems Design Lab under Dr. Glenn Lightsey. I primarily work on telecommunications and digital system design for space applications. 
 {style="text-align: justify;"}
